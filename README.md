@@ -95,7 +95,21 @@ The system follows an event-driven architecture:
 
 #### Service Bus Setup
 
-![Service Bus](screenshots/service-bus/placeholder.png)
+_Figure 1. - Service Bus Queue_
+
+![Service Bus Queue](screenshots/service-bus/service-bus-queue.png)
+
+_Figure 2. - Service Bus Topic_
+
+![Service Bus Topic](screenshots/service-bus/service-bus-topic.png)
+
+_Figure 3. - Service Bus Confirmed Filter_
+
+![Service Bus Confirmed Filter](screenshots/service-bus/service-bus-confirmed-filter.png)
+
+_Figure 4. - Service Bus Rejected Filter_
+
+![Service Bus Rejected Filter](screenshots/service-bus/service-bus-rejected-filter.png)
 
 #### Logic App Workflow
 
