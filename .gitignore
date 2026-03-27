@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+local.settings.json
+.vscode/
+
+# Azurite
+__azurite_db_*
+__blobstorage__/
+__queuestorage__/
+
+# Python
+.venv/
+__pycache__/
+
+# Azure Functions
+local.settings.json
