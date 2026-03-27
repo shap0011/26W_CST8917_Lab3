@@ -111,13 +111,17 @@ _Figure 4. - Service Bus Rejected Filter_
 
 ![Service Bus Rejected Filter](screenshots/service-bus/service-bus-rejected-filter.png)
 
+#### Azure Function
+
+![Function](screenshots/function/terminal-running-function.png)
+
+#### Deployed API Health Result
+
+![Deployed API Health Result](screenshots/function/deployed-api-health-result.png)
+
 #### Logic App Workflow
 
 ![Logic App](screenshots/logic-app/placeholder.png)
-
-#### Azure Function
-
-![Function](screenshots/function/placeholder.png)
 
 #### Confirmed Booking Flow
 
