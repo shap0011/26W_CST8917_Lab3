@@ -121,7 +121,7 @@ _Figure 4. - Service Bus Rejected Filter_
 
 #### Logic App Workflow
 
-![Logic App](screenshots/logic-app/placeholder.png)
+![Logic App](screenshots/logic-app/full-logic-app-workflow.png)
 
 #### Confirmed Booking Flow
 
