@@ -125,8 +125,10 @@ _Figure 4. - Service Bus Rejected Filter_
 
 #### Confirmed Booking Flow
 
-![Confirmed](screenshots/confirmed-flow/placeholder.png)
+![Confirmed](screenshots/confirmed-flow/booking-dashboard-email-confirmation.png)
+
+![Logic App Confirmed](screenshots/confirmed-flow/logic-app-request-confirmed.png)
 
 #### Rejected Booking Flow
 
-![Rejected](screenshots/rejected-flow/placeholder.png)
+![Rejected](screenshots/rejected-flow/booking-dashboard-email-rejected.pngg)
