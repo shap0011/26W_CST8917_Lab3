@@ -131,4 +131,4 @@ _Figure 4. - Service Bus Rejected Filter_
 
 #### Rejected Booking Flow
 
-![Rejected](screenshots/rejected-flow/booking-dashboard-email-rejected.pngg)
+![Rejected](screenshots/rejected-flow/booking-dashboard-email-rejected.png)
