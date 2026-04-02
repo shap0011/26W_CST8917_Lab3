@@ -132,3 +132,13 @@ _Figure 4. - Service Bus Rejected Filter_
 #### Rejected Booking Flow
 
 ![Rejected](screenshots/rejected-flow/booking-dashboard-email-rejected.png)
+
+---
+
+### Conclusion
+
+This lab demonstrates how serverless Azure services can be combined to build a scalable, event-driven application.
+
+By integrating Service Bus, Azure Functions, and Logic Apps, I implemented a complete booking workflow that processes requests asynchronously, applies business logic, and routes results based on conditions. The use of topics and filtered subscriptions ensures that messages are efficiently distributed to the appropriate consumers.
+
+This approach improves flexibility, decouples system components, and supports real-time processing without managing infrastructure. Overall, the project highlights the advantages of serverless architecture for building responsive and maintainable cloud applications.
